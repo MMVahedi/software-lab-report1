@@ -38,8 +38,19 @@
 ![Screenshot from 2024-07-11 15-15-34](https://github.com/MMVahedi/software-lab-report1/assets/79264910/81a552f8-5506-41e8-9ba1-5a15aae06aeb)
 
 ## اضافه کردن menue
+در اینجا یک برنچ برای اضافه کردن فیچر منو میزنیم و سپس داخل ان برنچ که از dev ساخته شده تغییرات را انجام می‌دهیم.
+در اینجا دکمه منو را اضافه می‌کنیم که کد آن در زیر آمده است:
 
-بعد از ادقام dev با main متوجه یک مشکل در کد شدیم که باعث می‌شد تصویر پسزمینه دوبار نمایش داده شود. برای رفع این مشکل یک شاخه fix/backgrounf ایجاد کردیم و تغیرات را در آن اعمال کنیم. چون دو نفر همزمان بر روی این شاخه کار می‌کردیم هنگام push کردن روی آن به یک conflict خوردیم و مجبور شدیم آن را resolve کنیم.
+![](https://github.com/MMVahedi/software-lab-report1/assets/70147234/4e091acb-b2c5-4927-b2eb-251e25d35dd4)
+![](https://github.com/MMVahedi/software-lab-report1/assets/70147234/f839cb93-19e4-4a36-b0e0-6197f3d2f0ca)
+
+همچنین برای زدن روی آن یک لیست نیز تعریف کردیم. سپس دقیقا مانند gitignore این تغییرات را کامیت می‌کنیم و پوش می‌کنیم و سپس با برنچ dev ادغام می‌کنیم. در آخر نیز یک pull request برای مرج شدن با main می‌دهیم:
+
+![](https://github.com/MMVahedi/software-lab-report1/assets/70147234/2a964cc7-163c-481e-bedb-b8c8dda18046)
+
+
+
+بعد از ادقام dev با main متوجه یک مشکل در کد شدیم که باعث می‌شد تصویر پسزمینه دوبار نمایش داده شود. برای رفع این مشکل یک شاخه fix/background ایجاد کردیم و تغیرات را در آن اعمال کنیم. چون دو نفر همزمان بر روی این شاخه کار می‌کردیم هنگام push کردن روی آن به یک conflict خوردیم و مجبور شدیم آن را resolve کنیم.
 ![Screenshot from 2024-07-11 13-57-07](https://github.com/MMVahedi/software-lab-report1/assets/79264910/54232553-d4d2-4374-ad02-f40a7d53809e)
 ![Screenshot from 2024-07-11 15-24-12](https://github.com/MMVahedi/software-lab-report1/assets/79264910/2a5d5b3b-5b44-4f85-9988-4913e17e0775)
 ![Screenshot from 2024-07-11 15-24-23](https://github.com/MMVahedi/software-lab-report1/assets/79264910/1a08574e-d5cc-4c9d-b2e9-982e4c7b4e10)

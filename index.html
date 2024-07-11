@@ -29,12 +29,27 @@
         <p>logo</p>
       </div>
       <div class="w3-display-topleft w3-container w3-xlarge">
-        <p><button onclick="document.getElementById('Menu').style.display='block'" class="w3-button w3-black">Menue</button></p>
+        <p><button onclick="document.getElementById('menu').style.display='block'" class="w3-button w3-black">Menue</button></p>
       </div>
       <div class="w3-display-bottomleft w3-container">
         <p class="w3-xlarge">monday - friday 10-23 | saturday 14-02</p>
         <p class="w3-large">42 village St, New York</p>
         <p>powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+      </div>
+    </div>
+
+     <!-- Menu Modal -->
+    <div id="menu" class="w3-modal">
+      <div class="w3-modal-content w3-animate-zoom">
+        <div class="w3-container w3-black w3-display-container">
+          <span onclick="document.getElementById('menu').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+          <h1>Starters</h1>
+        </div>
+        <div class="w3-container">
+          <h5>Tomato Soup <b>$2.50</b></h5>
+          <h5>Chicken Salad <b>$3.50</b></h5>
+          <h5>Bread and Butter <b>$1.00</b></h5>
+        </div>
       </div>
     </div>
 

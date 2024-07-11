@@ -18,11 +18,6 @@
         </style>
     </head>
     <body>
-        <div class="bgimg w3-display-container w3-text-white">
-            <div class="w3-display-topleft w3-container w3-xlarge">
-                
-            </div>
-        </div>
 
     <div class="bgimg w3-display-container w3-text-white">
       <div class="w3-display-middle w3-jumbo">
@@ -30,10 +25,11 @@
       </div>
       <div class="w3-display-topleft w3-container w3-xlarge">
         <p><button onclick="document.getElementById('menu').style.display='block'" class="w3-button w3-black">Menue</button></p>
+        <p><button onclick="document.getElementById('contact').style.display='block'" class="w3-button w3-black">contact</button></p>
       </div>
       <div class="w3-display-bottomleft w3-container">
         <p class="w3-xlarge">99109552-99109314-99170529</p>
-        <p class="w3-large">Tehran</p>
+        <p class="w3-large">Sharif</p>
       </div>
     </div>
 
@@ -74,6 +70,24 @@
 
 
     <!-- Contact Modal -->
+    <div id="contact" class="w3-modal">
+      <div class="w3-modal-content w3-animate-zoom">
+        <div class="w3-container w3-black">
+          <span onclick="document.getElementById('contact').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+          <h1>Contact</h1>
+        </div>
+        <div class="w3-container">
+          <p>Reserve a table, ask for today's special or just send us a message:</p>
+          <form target="_blank">
+            <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required></p>
+            <p><input class="w3-input w3-padding-16 w3-border" type="number" placeholder="How many people" required></p>
+            <p><input class="w3-input w3-padding-16 w3-border" type="datetime-local" placeholder="Date and time" required></p>
+            <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Message \ Special requirements"></p>
+            <p><button class="w3-button" type="submit">Reserve Table \ SEND MESSAGE</button></p>
+          </form>
+        </div>
+      </div>
+    </div>
      
     </body>
 </html>

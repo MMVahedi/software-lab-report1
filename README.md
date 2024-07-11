@@ -1,7 +1,7 @@
 ## مقدمه
 در ابتدای کار پس از ساخت ریپو باید برای تقسیم وظایف بردمان را از طریق بخش projects ایجاد می‌کردیم. بعد از آن تسک هارا ایجاد کردیم و هر کدام را مرحله به مرحله موازی با انجام کارها جلو بردیم. بعضی از ایتم ها پس از انجام کارهای اولیه به برد اضافه شدند.
+![Screenshot from 2024-07-11 15-29-19](https://github.com/MMVahedi/software-lab-report1/assets/79264910/03c5291e-7908-4b3d-b7e8-9fea6e7c685c)
 
-![Screenshot from 2024-07-11 13-04-42](https://github.com/MMVahedi/software-lab-report1/assets/79264910/4813cb01-e273-448a-8873-27329593dba0)
 
 تصویر بالا وصعیت برد بعد از انجام کارهای اولیه و مشخص شدن باقی آیتم ها است که بعضی از ایتم ها به مرحله done رسیده اند. به طور کلی ما چند کار اصلی داشتیم. ایجاد pipline برای استقرار صفحه وب، محافظت از شاخه main، ایجاد gitignore، ساخت قالب اولیه index.html و در انتها اضافه کردن دو ویژگی به آن. در ادامه به ترتیب به این مراحل می پردازیم.
 ## استقرار
@@ -26,8 +26,8 @@
 ## اضافه کردن menue
 
 بعد از ادقام dev با main متوجه یک مشکل در کد شدیم که باعث می‌شد تصویر پسزمینه دوبار نمایش داده شود. برای رفع این مشکل یک شاخه fix/backgrounf ایجاد کردیم و تغیرات را در آن اعمال کنیم. چون دو نفر همزمان بر روی این شاخه کار می‌کردیم هنگام push کردن روی آن به یک conflict خوردیم و مجبور شدیم آن را resolve کنیم.
-![Screenshot from 2024-07-11 15-24-12](https://github.com/MMVahedi/software-lab-report1/assets/79264910/2a5d5b3b-5b44-4f85-9988-4913e17e0775)
 ![Screenshot from 2024-07-11 13-57-07](https://github.com/MMVahedi/software-lab-report1/assets/79264910/54232553-d4d2-4374-ad02-f40a7d53809e)
+![Screenshot from 2024-07-11 15-24-12](https://github.com/MMVahedi/software-lab-report1/assets/79264910/2a5d5b3b-5b44-4f85-9988-4913e17e0775)
 ![Screenshot from 2024-07-11 15-24-23](https://github.com/MMVahedi/software-lab-report1/assets/79264910/1a08574e-d5cc-4c9d-b2e9-982e4c7b4e10)
 
 

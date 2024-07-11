@@ -22,16 +22,18 @@
 
 برای اضافه کردن فایل .gitignore ابتدا یک برنچ فیچر میسازیم:
 
-![Screenshot 2024-07-11 at 10.59.17 AM.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202024-07-11%20at%2010.59.17%20AM.png)
+![Screenshot 2024-07-11 at 10.59.17 AM.png]<img width="729" alt="Screenshot 2024-07-11 at 10 59 17 AM" src="https://github.com/MMVahedi/software-lab-report1/assets/70147234/acf65674-85dd-4c30-b3c9-f8248a8339ff">
+
 
 حال فایل گیت ایگنور را میسازیم و آن را به گیت اد میکنیم:
-![Screenshot 2024-07-11 at 11.10.19 AM.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202024-07-11%20at%2011.10.19%20AM.png)
+![Screenshot 2024-07-11 at 11.10.19 AM.png]<img width="756" alt="Screenshot 2024-07-11 at 11 10 19 AM" src="https://github.com/MMVahedi/software-lab-report1/assets/70147234/adcb06ed-4124-4103-8e95-10b8faff075b">
+
 
 سپس این برنچ را با dev ادغام میکنیم و درخواست pull request میدهیم تا با main نیز ادغام شود:
-![Screenshot 2024-07-11 at 11.14.51 AM.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202024-07-11%20at%2011.14.51%20AM.png)
-![Screenshot 2024-07-11 at 11.15.49 AM.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202024-07-11%20at%2011.15.49%20AM.png)
-![Screenshot 2024-07-11 at 11.24.38 AM.png](..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202024-07-11%20at%2011.24.38%20AM.png)
-## ساخت قالب اولیه 
+![Screenshot 2024-07-11 at 11.14.51 AM.png]<img width="772" alt="Screenshot 2024-07-11 at 11 14 51 AM" src="https://github.com/MMVahedi/software-lab-report1/assets/70147234/3dd2483c-e7f6-4a9b-b637-8260934d9ba5">
+![Screenshot 2024-07-11 at 11.15.49 AM.png]<img width="686" alt="Screenshot 2024-07-11 at 11 15 49 AM" src="https://github.com/MMVahedi/software-lab-report1/assets/70147234/1086bcc7-d748-44ef-b701-ca5d61907f1d">
+![Screenshot 2024-07-11 at 11.24.38 AM.png]<img width="936" alt="Screenshot 2024-07-11 at 11 24 38 AM" src="https://github.com/MMVahedi/software-lab-report1/assets/70147234/d4577f72-946c-4dd3-b6ad-b5192ade5d5e">
+ ## ساخت قالب اولیه 
 برای ساخت قالب اولیه و اضافه کردن پایه html به آن اول از همه یک شاخه با نام feature/base ایجاد می‌کنیم تا تغییرات را در آن اعمال کنیم. پس از انجام تغییرات و کامیت کردن آنها، آنها را پوش و بعد با شاخه dev ادغام می‌کنیم.
 ![Screenshot from 2024-07-11 15-15-34](https://github.com/MMVahedi/software-lab-report1/assets/79264910/81a552f8-5506-41e8-9ba1-5a15aae06aeb)
 

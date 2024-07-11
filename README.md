@@ -60,6 +60,20 @@
 ## اضافه کردن contact
 
 <hr/>
+در اینجا ما دکمه ی کانتکت در بالا سمت چپ اضافه شده که وقتی روی ان کلیک کنیم یک کانتکت خالی می اید.
+پس از زدن دکمه یک متن نوشته میشود.
+فرم ساخته میشود و اسم و مسیج و تعداد افرادی که میخواهند بیاید اضافه میشود.
+یک دکمه اضافه شده.
+تاریخ اضافه شده.
+امکان خالی بودن فیلد ها حذف شده و حتما همه باید پر شوند.
+اپشن ها ری فرمت شدند و متن دکمه تغیر کرد.
+![image](https://github.com/user-attachments/assets/966e9f3f-5e83-4dce-a8f8-ad08871a6401)
+![image](https://github.com/user-attachments/assets/983c957c-6c00-4735-8b85-995dc4a9747b)
+![image](https://github.com/user-attachments/assets/5d2dff8f-2f3b-41bb-b574-50d3231b6daa)
+![image](https://github.com/user-attachments/assets/4f51200a-e254-45ca-9532-3e8181cdad99)
+![image](https://github.com/user-attachments/assets/86259f50-c919-46e9-891a-efbe9af45d73)
+
+
 
 ## پاسخ سوالات
 

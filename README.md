@@ -85,6 +85,11 @@
 
 ![image](https://github.com/user-attachments/assets/86259f50-c919-46e9-891a-efbe9af45d73)
 
+### گزارش
+در انتهای کار هم پس از نوشتن گزارش در README و در شاخه feature/doc، هنگام ادقام آن با dev یه یک conflict دیگر برخوردیم.
+![Screenshot from 2024-07-11 22-19-44](https://github.com/user-attachments/assets/6070f9aa-f107-4612-be27-7e02d21e64d7)
+![Screenshot from 2024-07-11 22-20-02](https://github.com/user-attachments/assets/154a18db-c06b-4a06-bc11-20b940df6e52)
+
 
 
 ## پاسخ سوالات

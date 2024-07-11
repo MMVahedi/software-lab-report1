@@ -1,19 +1,12 @@
 # software-lab-report1
 
+مقدمه)
 
+اضافه کردن پایه‌ی html)
 
+اضافه کردن menue)
 
-![kanban1]()
-![kanban2]()
-
-
-
-![protect main]()
-![kanban3]()
-![kanban4]()
-
-
-![terminal1]()
+اضافه کردن contact)
 
 
 <hr/>

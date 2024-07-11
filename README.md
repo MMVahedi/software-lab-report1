@@ -67,10 +67,15 @@
 تاریخ اضافه شده.
 امکان خالی بودن فیلد ها حذف شده و حتما همه باید پر شوند.
 اپشن ها ری فرمت شدند و متن دکمه تغیر کرد.
+
 ![image](https://github.com/user-attachments/assets/966e9f3f-5e83-4dce-a8f8-ad08871a6401)
+
 ![image](https://github.com/user-attachments/assets/983c957c-6c00-4735-8b85-995dc4a9747b)
+
 ![image](https://github.com/user-attachments/assets/5d2dff8f-2f3b-41bb-b574-50d3231b6daa)
+
 ![image](https://github.com/user-attachments/assets/4f51200a-e254-45ca-9532-3e8181cdad99)
+
 ![image](https://github.com/user-attachments/assets/86259f50-c919-46e9-891a-efbe9af45d73)
 
 

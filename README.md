@@ -50,7 +50,7 @@
 
 
 
-بعد از ادقام dev با main متوجه یک مشکل در کد شدیم که باعث می‌شد تصویر پسزمینه دوبار نمایش داده شود. برای رفع این مشکل یک شاخه fix/background ایجاد کردیم و تغیرات را در آن اعمال کنیم. چون دو نفر همزمان بر روی این شاخه کار می‌کردیم هنگام push کردن روی آن به یک conflict خوردیم و مجبور شدیم آن را resolve کنیم.
+بعد از ادغام dev با main متوجه یک مشکل در کد شدیم که باعث می‌شد تصویر پسزمینه دوبار نمایش داده شود. برای رفع این مشکل یک شاخه fix/background ایجاد کردیم و تغیرات را در آن اعمال کنیم. چون دو نفر همزمان بر روی این شاخه کار می‌کردیم هنگام push کردن روی آن به یک conflict خوردیم و مجبور شدیم آن را resolve کنیم.
 ![Screenshot from 2024-07-11 13-57-07](https://github.com/MMVahedi/software-lab-report1/assets/79264910/54232553-d4d2-4374-ad02-f40a7d53809e)
 ![Screenshot from 2024-07-11 15-24-12](https://github.com/MMVahedi/software-lab-report1/assets/79264910/2a5d5b3b-5b44-4f85-9988-4913e17e0775)
 ![Screenshot from 2024-07-11 15-24-23](https://github.com/MMVahedi/software-lab-report1/assets/79264910/1a08574e-d5cc-4c9d-b2e9-982e4c7b4e10)
